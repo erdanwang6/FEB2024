@@ -1,0 +1,14 @@
+C:\Users\erdan\RiderProjects\CSAssignment1\CSAssignment1\bin\Debug\net8.0\CSAssignment1.exe
+C:\Users\erdan\RiderProjects\CSAssignment1\CSAssignment1\bin\Debug\net8.0\CSAssignment1.deps.json
+C:\Users\erdan\RiderProjects\CSAssignment1\CSAssignment1\bin\Debug\net8.0\CSAssignment1.runtimeconfig.json
+C:\Users\erdan\RiderProjects\CSAssignment1\CSAssignment1\bin\Debug\net8.0\CSAssignment1.dll
+C:\Users\erdan\RiderProjects\CSAssignment1\CSAssignment1\bin\Debug\net8.0\CSAssignment1.pdb
+C:\Users\erdan\RiderProjects\CSAssignment1\CSAssignment1\obj\Debug\net8.0\CSAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdan\RiderProjects\CSAssignment1\CSAssignment1\obj\Debug\net8.0\CSAssignment1.AssemblyInfoInputs.cache
+C:\Users\erdan\RiderProjects\CSAssignment1\CSAssignment1\obj\Debug\net8.0\CSAssignment1.AssemblyInfo.cs
+C:\Users\erdan\RiderProjects\CSAssignment1\CSAssignment1\obj\Debug\net8.0\CSAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\erdan\RiderProjects\CSAssignment1\CSAssignment1\obj\Debug\net8.0\CSAssignment1.dll
+C:\Users\erdan\RiderProjects\CSAssignment1\CSAssignment1\obj\Debug\net8.0\refint\CSAssignment1.dll
+C:\Users\erdan\RiderProjects\CSAssignment1\CSAssignment1\obj\Debug\net8.0\CSAssignment1.pdb
+C:\Users\erdan\RiderProjects\CSAssignment1\CSAssignment1\obj\Debug\net8.0\CSAssignment1.genruntimeconfig.cache
+C:\Users\erdan\RiderProjects\CSAssignment1\CSAssignment1\obj\Debug\net8.0\ref\CSAssignment1.dll
